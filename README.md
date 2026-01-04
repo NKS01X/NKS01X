@@ -6,7 +6,7 @@
     <a href="https://codeforces.com/profile/NKS01X">
       <img src="https://img.shields.io/badge/Codeforces-Specialist%20(1400+)-1f8acb?style=for-the-badge&logo=codeforces" />
     </a>
-    <a href="https://linkedin.com/in/nikhil-kumar-singh">
+    <a href="https://linkedin.com/in/NKS01X">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
     </a>
     <a href="mailto:nikhil2006work@gmail.com">
