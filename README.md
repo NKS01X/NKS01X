@@ -4,12 +4,12 @@
 
   <p>
     <a href="https://codeforces.com/profile/NKS01X">
-      <img src="https://img.shields.io/badge/Codeforces-Specialist%20(1400+)-1f8acb?style=for-the-badge&logo=codeforces" />
+      <img src="https://img.shields.io/badge/Codeforces-Specialist%20(1500+)-1f8acb?style=for-the-badge&logo=codeforces" />
     </a>
     <a href="https://linkedin.com/in/NKS01X">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
     </a>
-    <a href="mailto:nikhil2006work@gmail.com">
+    <a href="mailto:nikhilayush2020@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
     </a>
   </p>
@@ -27,18 +27,19 @@
 
 | Category | Tools & Technologies |
 |--------|----------------------|
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) |
-| **Backend & Tools** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![REST](https://img.shields.io/badge/REST-005571?style=flat&logo=postman) |
-| **Core CS** | **DSA • OOPS • DBMS • Computer Networks • OS** |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express) ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go) ![Gorilla Mux](https://img.shields.io/badge/Gorilla%20Mux-00ADD8?style=flat&logo=go) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql) |
+| **Database & Systems** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman) ![curl](https://img.shields.io/badge/curl-073555?style=flat&logo=curl&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code) |
+| **Core Concepts** | **Compiler Design • System Design • DSA • DBMS • OS** |
 
 
 ---
 
 ## 🏆 Competitive Programming Stats
 
-- 🟦 **Codeforces Specialist** — Max Rating **1400+**
+- 🟦 **Codeforces Specialist** — Max Rating **1500+**
 - 🟨 **LeetCode** — Rating **1800+**
-- 🌍 **Meta Hacker Cup 2025** — Global Rank **8022**
 - ⭐ **CodeChef 3★** — Rating **1600+**
 
 ## 📊 GitHub Analytics
@@ -61,7 +62,5 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarafarajnasardi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NKS01X&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
-
----
