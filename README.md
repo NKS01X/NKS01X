@@ -38,7 +38,7 @@
 
 ## 🏆 Competitive Programming Stats
 
-- 🟦 **Codeforces Specialist** — Max Rating **1500+**
+- 🟦 **Codeforces Expert** — Max Rating **1600+**
 - 🟨 **LeetCode** — Rating **1800+**
 - ⭐ **CodeChef 3★** — Rating **1600+**
 
