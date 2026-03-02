@@ -4,7 +4,7 @@
 
   <p>
     <a href="https://codeforces.com/profile/NKS01X">
-      <img src="https://img.shields.io/badge/Codeforces-Specialist%20(1500+)-1f8acb?style=for-the-badge&logo=codeforces" />
+      <img src="https://img.shields.io/badge/Codeforces-Expert%20(1600+)-1f8acb?style=for-the-badge&logo=codeforces" />
     </a>
     <a href="https://linkedin.com/in/NKS01X">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
