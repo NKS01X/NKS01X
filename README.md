@@ -1,66 +1,80 @@
-<div align="center">
-  <h1>Hi, I'm Nikhil Kumar Singh! 👋</h1>
-  <p><b>Computer Science & Engineering Undergraduate @ NIT Agartala</b></p>
+<h2 align="left">Hi 👋! My name is Nikhil and I'm a full-stack Developer</h2>
 
-  <p>
-    <a href="https://codeforces.com/profile/NKS01X">
-      <img src="https://img.shields.io/badge/Codeforces-Expert%20(1600+)-1f8acb?style=for-the-badge&logo=codeforces" />
-    </a>
-    <a href="https://linkedin.com/in/NKS01X">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
-    </a>
-    <a href="mailto:nikhilayush2020@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
-    </a>
-  </p>
+###
 
-  <p>
-    <i>“Build fast. Think deep. Optimize everything.”</i><br>
-    I specialize in <b>low-level engineering</b>, <b>high-performance systems</b>,
-    and <b>competitive programming</b>.
-  </p>
+<img align="right" height="150" src="https://media1.tenor.com/m/wEJ9Zi8a72UAAAAd/wink-excited.gif" />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
 </div>
 
----
+###
 
-## 🚀 Technical Arsenal
+<div align="left">
+  <a href="https://linkedin.com/in/NKS01X" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:nikhilayush2020@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://codeforces.com/profile/NKS01X" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1f8acb&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codeforces logo" />
+  </a>
+  <a href="https://leetcode.com/NKS01X" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
+  </a>
+</div>
 
-| Category | Tools & Technologies |
-|--------|----------------------|
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express) ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go) ![Gorilla Mux](https://img.shields.io/badge/Gorilla%20Mux-00ADD8?style=flat&logo=go) ![REST](https://img.shields.io/badge/REST_API-005571?style=flat) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql) |
-| **Database & Systems** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman) ![curl](https://img.shields.io/badge/curl-073555?style=flat&logo=curl&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code) |
-| **Core Concepts** | **Compiler Design • System Design • DSA • DBMS • OS** |
+###
 
+[![NKS01X's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NKS01X?cardType=octocat&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
----
+![NKS01X's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NKS01X&theme=dark&hide_border=true)
 
-## 🏆 Competitive Programming Stats
+![NKS01X's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NKS01X&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-- 🟦 **Codeforces Expert** — Max Rating **1600+**
-- 🟨 **LeetCode** — Rating **1800+**
-- ⭐ **CodeChef 3★** — Rating **1600+**
+![NKS01X's Graph](https://github-readme-activity-graph.vercel.app/graph?username=NKS01X&theme=dark&hide_border=true&bg_color=0d1117)
 
-## 📊 GitHub Analytics
+###
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NKS01X&theme=tokyonight" alt="GitHub Profile Summary"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NKS01X&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NKS01X&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NKS01X&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-</p>
+###
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NKS01X&theme=tokyonight" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NKS01X&theme=tokyonight" alt="Top Languages by Commit"/>
-</p>
-
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NKS01X&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NKS01X/NKS01X/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NKS01X/NKS01X/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NKS01X/NKS01X/output/github-contribution-grid-snake-dark.svg" />
+</picture>
